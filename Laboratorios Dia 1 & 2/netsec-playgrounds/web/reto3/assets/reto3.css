@@ -1,0 +1,11 @@
+.r3-wrap{max-width:980px;margin:26px auto;padding:0 20px}
+.panel{background:#1c1f26cc;border:1px solid #2a3240;border-radius:14px;padding:18px}
+.panel h2{margin:6px 0 10px;color:#dff8ff}
+.panel p,.panel li{color:#b9c5d5}
+.btn{display:inline-block;margin-top:10px;background:#22d3ee;color:#0b0f17;
+  padding:10px 14px;border-radius:10px;text-decoration:none;font-weight:700}
+.input{padding:10px;border-radius:8px;border:1px solid #2a3240;background:#0f1622;color:#e6edf3}
+.kbd{font-family:ui-monospace,Consolas,Monaco,monospace;background:#0f1622;border:1px solid #2a3240;border-radius:6px;padding:2px 6px}
+.ok{color:#22eeb8}.err{color:#ff758f}
+pre.out{background:#0f1622;border:1px dashed #324054;border-radius:8px;padding:10px;overflow:auto}
+
